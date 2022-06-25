@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800540584691",
+    "project_id": "delivery-b8657",
+    "storage_bucket": "delivery-b8657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800540584691:android:bbd2c15fba7d251709a586",
+        "android_client_info": {
+          "package_name": "h2dsolucoes.com.pediu_chegou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800540584691-95m38vi3mv9h6soobq0p9urt4i4go3q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h2dsolucoes.com.pediu_chegou",
+            "certificate_hash": "e62cce9b2167d5b163350a992797a8534b4427d5"
+          }
+        },
+        {
+          "client_id": "800540584691-sn3b5bnkri3jst8hdq5f6rnug1tflof0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzpPsIyxgYKB_3R0s24RyqenyHTtivzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800540584691-sn3b5bnkri3jst8hdq5f6rnug1tflof0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
